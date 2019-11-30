@@ -4,7 +4,7 @@ alias gaa="git add ."
 alias gc="git checkout"
 alias gp="git push github"
 alias gs="git status"
-alias gl="git log"
+alias gl="git log --no-show-signature --graph -n 1000 --format='format:%C(bold blue)%h%Creset %C(bold)%s%Creset%C(auto)%d%n%C(dim white)%ad %C(nodim green)(%ar)%Creset - %an%C(yellow)%+N%n%Creset'\'"
 alias nah="git reset --hard; git clean -df;"
 
 alias c="cd ~/code"
@@ -14,4 +14,3 @@ alias setalias="vim ~/.zshrc && source ~/.zshrc"
 
 alias server1="ssh <your-ssh-address>"
 alias server2="ssh <your-ssh-address>"
-

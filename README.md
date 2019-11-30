@@ -3,6 +3,8 @@
 * Install Oh My zsh
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
+* Run `git config --global pager.branch false` to remove strange defailt paging of git output
+
 * Go to ~/.zshrc
 
    - Add this line `alias setalias="vim ~/.zshrc && source ~/.zshrc"`

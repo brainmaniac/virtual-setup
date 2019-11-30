@@ -1,5 +1,7 @@
 * Download iTerm 2
 
+* In iTerm 2 go to `iTerm2 > Preferences > Profiles > Terminal` and check `Unlimited Scrollback`
+
 * Make sure you have zsh installed
 
 * Install *Oh My zsh*

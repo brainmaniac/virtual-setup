@@ -1,6 +1,8 @@
 * Download iTerm 2
 
-* Install Oh My zsh
+* Make sure you have zsh installed
+
+* Install *Oh My zsh*
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 * Run `git config --global pager.branch false` to remove strange default paging of git output

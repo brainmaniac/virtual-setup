@@ -1,0 +1,17 @@
+alias gb="git branch"
+alias ga="git add"
+alias gaa="git add ."
+alias gc="git checkout"
+alias gp="git push github"
+alias gs="git status"
+alias gl="git log"
+alias nah="git reset --hard; git clean -df;"
+
+alias c="cd ~/code"
+alias ~="cd ~"
+
+alias setalias="vim ~/.zshrc && source ~/.zshrc"
+
+alias server1="ssh <your-ssh-address>"
+alias server2="ssh <your-ssh-address>"
+

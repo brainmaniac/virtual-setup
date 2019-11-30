@@ -12,5 +12,5 @@ alias ~="cd ~"
 
 alias setalias="vim ~/.zshrc && source ~/.zshrc"
 
-alias server1="ssh <your-ssh-address>"
-alias server2="ssh <your-ssh-address>"
+alias server1="ssh <your-ssh-address1>"
+alias server2="ssh <your-ssh-address2>"

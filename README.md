@@ -16,5 +16,8 @@
    - This will allow you to anywhere in the terminal type *setalias* and you will be able to create new aliases
    
    - Additional suggested aliases can be found in the file **aliases.txt** in this repo
+
+* Auto suggestions for zsh 
+   brew install zsh-autosuggestions
    
  

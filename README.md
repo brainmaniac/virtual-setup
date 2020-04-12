@@ -18,6 +18,7 @@
    - Additional suggested aliases can be found in the file **aliases.txt** in this repo
 
 * Auto suggestions for zsh 
-   brew install zsh-autosuggestions
+   https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
+   I did the Oh My Zsh alternatve
    
  

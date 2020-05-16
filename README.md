@@ -21,4 +21,13 @@
    https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
    I did the Oh My Zsh alternatve
    
+* Fuzzy find for terminal history
+   https://github.com/junegunn/fzf#installation
+
+   - `brew install fzf`
+
+   - `$(brew --prefix)/opt/fzf/install`
+   
+   - Use ctrl + r to use it when in terminal
+   
  

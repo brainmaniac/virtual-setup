@@ -19,7 +19,7 @@
 
 * Auto suggestions for zsh 
    https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
-   I did the Oh My Zsh alternatve
+   I did the Git clone install
    
 * Fuzzy find for terminal history
    https://github.com/junegunn/fzf#installation

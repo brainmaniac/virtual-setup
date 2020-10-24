@@ -13,5 +13,8 @@ alias ~="cd ~"
 
 alias setalias="vim ~/.zshrc && source ~/.zshrc"
 
+bindkey "^[^[[C" forward-word
+bindkey "^[^[[D" backward-word
+
 alias server1="ssh <your-ssh-address1>"
 alias server2="ssh <your-ssh-address2>"

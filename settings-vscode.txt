@@ -1,0 +1,24 @@
+  1 {
+  2     "workbench.colorTheme": "Field Lights",
+  3     "explorer.openEditors.visible": 0,
+  4     "workbench.activityBar.visible": false,
+  5     "editor.minimap.enabled": false,
+  6     "emmet.includeLanguages": {
+  7         "erb": "html"
+  8     },
+  9     "workbench.editor.showTabs": false,
+ 10     "window.zoomLevel": 2,
+ 11     "ruby.intellisense": "rubyLocate",
+ 12     "files.trimTrailingWhitespace": true,
+ 13     "terminal.integrated.shell.osx": "/bin/zsh",
+ 14     "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+ 15     "workbench.settings.editor": "json",
+ 16     "ruby.rubocop.suppressRubocopWarnings": true,
+ 17     "ruby.rubocop.executePath": "/Users/olofjondelius/.rbenv/versions/2.6.3/bin/",
+ 18     "editor.tabSize": 2,
+ 19     "workbench.sideBar.location": "left",
+ 20     "workbench.settings.editor": "json",
+ 21     "files.trimTrailingWhitespace": true,
+ 22     "editor.glyphMargin": false,
+ 23     "editor.folding": false
+ 24 }

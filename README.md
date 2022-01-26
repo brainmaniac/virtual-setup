@@ -30,4 +30,5 @@
    
    - Use ctrl + r to use it when in terminal
    
- 
+ * Add this to gitconfig
+   - `cleanup = branch --merged | rg -v master | xargs git branch -d` 

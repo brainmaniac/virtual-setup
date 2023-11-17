@@ -32,6 +32,14 @@
 * Install this theme
    https://github.com/romkatv/powerlevel10k#configuration-wizard
 
+   Manually change these lines to this:
+  ```
+     # Show previous command duration only if it's >= 5s.
+     typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=1
+     # Don't show fractional seconds. Thus, 7s rather than 7.3s.
+     typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_PRECISION=1
+   ```
+
 * I VScode:
    ### User settings (JSON)
    ```

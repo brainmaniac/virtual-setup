@@ -16,10 +16,6 @@
    - This will allow you to anywhere in the terminal type *setalias* and you will be able to create new aliases
    
    - Additional suggested aliases can be found in the file **aliases.txt** in this repo
-
-* Auto suggestions for zsh 
-   https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
-   I did the Git clone install
    
 * Fuzzy find for terminal history
    https://github.com/junegunn/fzf#installation
@@ -32,6 +28,9 @@
    
  * Add this to gitconfig
    - `cleanup = branch --merged | rg -v master | xargs git branch -d` 
+
+* Install this theme
+   https://github.com/romkatv/powerlevel10k#configuration-wizard
 
 * I VScode:
    ### User settings (JSON)
